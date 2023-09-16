@@ -9,6 +9,7 @@
 |Koolson|[Koolson/Qure](https://github.com/Koolson/Qure)|
 |zwf234|[zwf234/rules](https://github.com/zwf234/rules)|
 |chxm1023|[chxm1023/Script_X](https://github.com/chxm1023/Script_X)|
+|KOP-XIAO|[KOP-XIAO/QuantumultX](https://github.com/KOP-XIAO/QuantumultX)|
 
 ## Constructing......
 
