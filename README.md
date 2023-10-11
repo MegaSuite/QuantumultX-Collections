@@ -13,11 +13,15 @@
 |   chxm1023   |  [chxm1023/Script_X](https://github.com/chxm1023/Script_X)   |
 |   KOP-XIAO   | [KOP-XIAO/QuantumultX](https://github.com/KOP-XIAO/QuantumultX) |
 
-## QuantumultX-Rewrites
-
-
-
 ## QuantumultX-Filters
+> 基于社区分享规则修改，仅供自用，如有侵权请联系删除。
+
+|File|Source|
+|:---:|:---:|
+|`GlobalSites.list`| [DivineEngine-Quantumult/Filter/Global.list](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Global.list)|
+|`GlobalStreaming.list`| [DivineEngine-Quantumult/Filter/StreamingMedia/Streaming.list](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/StreamingMedia/Streaming.list)|
+
+## QuantumultX-Rewrites
 
 
 
