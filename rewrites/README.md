@@ -4,4 +4,5 @@
 
 |File|Source|
 |:---:|:---:|
-|`General.conf`|[DivineEngine-Rewrite/General.conf](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/General.conf)|
+|`GeneralRedirects.conf`|[DivineEngine-Rewrite/General.conf](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/General.conf)|
+|`GeneralAdBlock.conf`|[DivineEngine-Rewrite/Advertising.conf](https://github.com/DivineEngine/Profiles/blob/master/Quantumult/Rewrite/Block/Advertising.conf)|
