@@ -4,7 +4,7 @@
 
 |File|Source|
 |:---:|:---:|
-|`GlobalSites.list`| [DivineEngine-Quantumult/Filter/Global.list](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Global.list)|
-|`GlobalStreaming.list`| [DivineEngine-Quantumult/Filter/StreamingMedia/Streaming.list](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/StreamingMedia/Streaming.list)|
+|`GlobalSites.list`| [DivineEngine-Filter/Global.list](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Global.list)|
+|`GlobalStreaming.list`| [DivineEngine-Filter/StreamingMedia/Streaming.list](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/StreamingMedia/Streaming.list)|
 
 ## Constructing......
