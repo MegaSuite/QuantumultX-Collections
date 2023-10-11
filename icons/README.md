@@ -1,6 +1,6 @@
 <h1 align='center'>QuantumultX-Collections-Icons</h1>
 
-> 收集自各大图标仓库及[阿里巴巴矢量图标库](https://www.iconfont.cn/)，仅供本人自用，如有侵权请联系删除。
+> 收集自各大图标仓库及[阿里巴巴矢量图标库](https://www.iconfont.cn/)和[ICONS8](https://icons8.com/icons)，仅供本人自用，如有侵权请联系删除。
 
 |作者|仓库|
 |:---:|:---:|
