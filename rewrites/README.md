@@ -6,4 +6,4 @@
 |:---:|:---:|
 |`GeneralRedirects.conf`|[DivineEngine-Rewrite/General.conf](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/General.conf)|
 |`GeneralAdBlock.conf`|[DivineEngine-Rewrite/Advertising.conf](https://github.com/DivineEngine/Profiles/blob/master/Quantumult/Rewrite/Block/Advertising.conf)|
-|`ZhihuAds.adblock`|[sve1r-Rewrite/AdBlock/Zhihu.adblock](https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/main/Rewrite/AdBlock/Zhihu.adblock)|
+|`ZhihuAds.conf`|[sve1r-Rewrite/AdBlock/Zhihu.adblock](https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/main/Rewrite/AdBlock/Zhihu.adblock)|
