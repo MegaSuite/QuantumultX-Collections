@@ -6,5 +6,6 @@
 |:---:|:---:|
 |`GlobalSites.list`| [DivineEngine-Filter/Global.list](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Global.list)|
 |`GlobalStreaming.list`| [DivineEngine-Filter/StreamingMedia/Streaming.list](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/StreamingMedia/Streaming.list)|
+|`ChinaSites.list`|[DivineEngine-Filter/China.list](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/China.list)|
 
 ## Constructing......
