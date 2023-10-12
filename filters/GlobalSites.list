@@ -1,5 +1,8 @@
+#----------
 #Source:
 #https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Global.list
+#----------
+
 
 # (D.C.S.G?)
 DOMAIN-SUFFIX,9cache.com,PROXY
