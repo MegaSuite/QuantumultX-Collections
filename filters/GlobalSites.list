@@ -454,3 +454,12 @@ DOMAIN-SUFFIX,zaobao.com.sg,PROXY
 DOMAIN,addons.mozilla.org,PROXY
 DOMAIN,wego.here.com,PROXY
 
+
+# Self-defined
+DOMAIN,hexo.fluid-dev.com,PROXY
+DOMAIN,maxcdn.bootstrapcdn.com,PROXY
+
+
+IP-CIDR,20.2.89.85/32,DIRECT
+IP-CIDR,123.60.17.135/32,DIRECT
+IP-CIDR,40.82.137.24/32,DIRECT
