@@ -107,6 +107,7 @@ DOMAIN-SUFFIX,pptv.com,DIRECT
 # > Sohu Video
 DOMAIN-SUFFIX,itc.cn,DIRECT
 DOMAIN-SUFFIX,sohu.com,DIRECT
+HOST-KEYWORD,sonkwo,DIRECT
 # > Migu Video
 DOMAIN-SUFFIX,cmvideo.cn,DIRECT
 DOMAIN-SUFFIX,miguvideo.com,DIRECT
