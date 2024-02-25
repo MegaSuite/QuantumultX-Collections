@@ -2,29 +2,21 @@
 
 > 应用名称：酷安净化
 > 脚本作者：ddgksf2013
-> 微信账号：墨鱼手记
 > 更新时间：2023-08-08
-> 通知频道：https://t.me/ddgksf2021
-> 贡献投稿：https://t.me/ddgksf2013_bot
-> 问题反馈：ddgksf2013@163.com
-> 特别提醒：如需转载请注明出处，谢谢合作！
-> 特别说明：⚠️⚠️⚠️
-          本脚本仅供学习交流使用，禁止转载、售卖
-          ⚠️⚠️⚠️
 		  
     
 [rewrite_local]
 
 # > 酷安_开屏广告@ddgksf2013
-^https?:\/\/api.coolapk.com\/v6\/main\/init url script-response-body https://github.com/ddgksf2013/Scripts/raw/master/coolapk.js
+^https?:\/\/api.coolapk.com\/v6\/main\/init url script-response-body https://raw.githubusercontent.com/MegaSuite/QuantumultX-Collections/main/scripts/coolapk.js
 # > 酷安_推广广告@ddgksf2013
-^https?:\/\/api.coolapk.com\/v6\/dataList url script-response-body https://github.com/ddgksf2013/Scripts/raw/master/coolapk.js
+^https?:\/\/api.coolapk.com\/v6\/dataList url script-response-body https://raw.githubusercontent.com/MegaSuite/QuantumultX-Collections/main/scripts/coolapk.js
 # > 酷安_首页广告@ddgksf2013
-^https?:\/\/api.coolapk.com\/v6\/main\/indexV8 url script-response-body https://github.com/ddgksf2013/Scripts/raw/master/coolapk.js
+^https?:\/\/api.coolapk.com\/v6\/main\/indexV8 url script-response-body https://raw.githubusercontent.com/MegaSuite/QuantumultX-Collections/main/scripts/coolapk.js
 # > 酷安_评论广告@ddgksf2013
-^https?:\/\/api.coolapk.com\/v6\/feed\/replyList url script-response-body https://github.com/ddgksf2013/Scripts/raw/master/coolapk.js
+^https?:\/\/api.coolapk.com\/v6\/feed\/replyList url script-response-body https://raw.githubusercontent.com/MegaSuite/QuantumultX-Collections/main/scripts/coolapk.js
 # > 酷安_商品推广@ddgksf2013
-^https?:\/\/api.coolapk.com\/v6\/feed\/detail url script-response-body https://github.com/ddgksf2013/Scripts/raw/master/coolapk.js
+^https?:\/\/api.coolapk.com\/v6\/feed\/detail url script-response-body https://raw.githubusercontent.com/MegaSuite/QuantumultX-Collections/main/scripts/coolapk.js
 # > 酷安_屏蔽热词@ddgksf2013
 ^https?:\/\/api\.coolapk\.com\/v6\/search\?.*type=hotSearch url reject-dict
 
