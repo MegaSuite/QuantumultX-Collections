@@ -24,7 +24,7 @@
 |`AdBlock.list`|[DivineEngine-Guard/Advertising.list](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Guard/Advertising.list)|
 
 ## QuantumultX-Rewrites
-> 收集自各大佬的重写，进行调整，以便自用。
+> 收集自各开源仓库，进行部分调整，以供自用。
 
 |File|Source|
 |:---:|:---:|
@@ -35,6 +35,6 @@
 
 ## QuantumultX-Scripts
 
-
-
-> Constructing....
+|File|Source|
+|:---:|:---:|
+|`coolapk.js`|[ddgksf2013/Scripts](https://github.com/ddgksf2013/Scripts/raw/master/coolapk.js)|
