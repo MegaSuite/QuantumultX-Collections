@@ -454,5 +454,6 @@ DOMAIN,wego.here.com,PROXY
 # > Self-defined
 DOMAIN,hexo.fluid-dev.com,PROXY
 DOMAIN,maxcdn.bootstrapcdn.com,PROXY
+DOMAIN-SUFFIX,nike.com,PROXY
 
 
