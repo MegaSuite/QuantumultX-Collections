@@ -1110,3 +1110,7 @@ DOMAIN-SUFFIX,yihuifu.cn,REJECT
 DOMAIN-SUFFIX,yuanchengxiezuo.com,REJECT
 DOMAIN-SUFFIX,zbrushcn.com,REJECT
 DOMAIN-SUFFIX,zhzzx.com,REJECT
+
+DOMAIN-SUFFIX,doubleclick-cn.net,REJECT
+DOMAIN-SUFFIX,googleadsservices.com,REJECT
+DOMAIN-SUFFIX,googleadsservices-cn.com,REJECT
