@@ -30,6 +30,8 @@ DOMAIN-SUFFIX,paypalobjects.com,DIRECT
 # > Steam
 DOMAIN-SUFFIX,cm.steampowered.com,DIRECT
 DOMAIN-SUFFIX,steamserver.net,DIRECT
+DOMAIN,media.st.dl.eccdnx.com,DIRECT
+DOMAIN,api.steampowered.com,DIRECT
 # > Tencent
 IP-CIDR,182.254.116.0/24,DIRECT
 IP-CIDR,203.205.238.0/23,DIRECT
@@ -141,9 +143,21 @@ DOMAIN-SUFFIX,dmhmusic.com,DIRECT
 GEOIP,CN,DIRECT
 
 # > Self-defined
-IP-CIDR,188.253.117.53/32,DIRECT
 IP-CIDR,123.60.17.135/32,DIRECT
+# cn-hwecs
 IP-CIDR,104.168.35.206/32,DIRECT
+# us-hudson
+IP-CIDR,188.253.117.53/32,DIRECT
+# tw-churros
+IP-CIDR,45.145.154.138/32,DIRECT
+# sg-wap
+IP-CIDR,154.23.207.160/32,DIRECT
+# us-wawo
+IP6-CIDR,2001:b030:a42d:5dcd::49/64,DIRECT
+# tw-wap_hinet
+IP6-CIDR,2406:9b80:0002:a0ed::1/64,DIRECT
+# hk-wawo
+
 
 DOMAIN-SUFFIX,2game.hk,DIRECT
 DOMAIN-SUFFIX,humblebundle.com,DIRECT
