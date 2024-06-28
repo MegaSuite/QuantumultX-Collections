@@ -251,7 +251,6 @@ DOMAIN-SUFFIX,widevine.com,PROXY
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com,PROXY
 DOMAIN-SUFFIX,zynamics.com,PROXY
 DOMAIN-KEYWORD,.blogspot.,PROXY
-DOMAIN-SUFFIX,goog,PROXY
 
 # > Automattic
 DOMAIN-SUFFIX,gravatar.com,PROXY
