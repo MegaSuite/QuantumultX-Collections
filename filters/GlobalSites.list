@@ -430,5 +430,6 @@ DOMAIN,wego.here.com,PROXY
 DOMAIN,hexo.fluid-dev.com,PROXY
 DOMAIN,maxcdn.bootstrapcdn.com,PROXY
 DOMAIN-SUFFIX,nike.com,PROXY
+DOMAIN-KEYWORD,0uu0,PROXY
 
 
