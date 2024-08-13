@@ -10,18 +10,6 @@ DOMAIN-SUFFIX,gandi.net,DIRECT
 DOMAIN-SUFFIX,snapdrop.net,DIRECT
 DOMAIN,download.jetbrains.com,DIRECT
 DOMAIN,origin-a.akamaihd.ne,DIRECT
-# > Outlook
-DOMAIN,outlook.office365.com,DIRECT
-DOMAIN,smtp-mail.outlook.com,DIRECT
-DOMAIN,smtp.office365.com,DIRECT
-# > Windows Server Update Services
-DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com,DIRECT
-DOMAIN-SUFFIX,update.microsoft.com,DIRECT
-DOMAIN-SUFFIX,windowsupdate.com,DIRECT
-DOMAIN-SUFFIX,windowsupdate.microsoft.com,DIRECT
-DOMAIN,download.microsoft.com,DIRECT
-DOMAIN,wustat.windows.com,DIRECT
-DOMAIN,ntservicepack.microsoft.com,DIRECT
 # > PayPal
 DOMAIN-SUFFIX,paypal.com,DIRECT
 DOMAIN-SUFFIX,paypal.me,DIRECT
@@ -138,22 +126,6 @@ DOMAIN-SUFFIX,dmhmusic.com,DIRECT
 GEOIP,CN,DIRECT
 
 # > Self-defined
-IP-CIDR,123.60.17.135/32,DIRECT
-# cn-hwecs
-IP-CIDR,104.168.35.206/32,DIRECT
-# us-hudson
-IP-CIDR,188.253.117.53/32,DIRECT
-# tw-churros
-IP-CIDR,45.145.154.138/32,DIRECT
-# sg-wap
-IP-CIDR,154.23.207.160/32,DIRECT
-# us-wawo
-IP6-CIDR,2001:b030:a42d:5dcd::49/64,DIRECT
-# tw-wap_hinet
-IP6-CIDR,2406:9b80:0002:a0ed::1/64,DIRECT
-# hk-wawo
-
-
 DOMAIN-SUFFIX,2game.hk,DIRECT
 DOMAIN-SUFFIX,humblebundle.com,DIRECT
 DOMAIN-KEYWORD,ubi,DIRECT
