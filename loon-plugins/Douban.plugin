@@ -1,0 +1,28 @@
+#!name = 豆瓣去广告
+#!desc = 移除开屏广告
+#!openUrl = https://apps.apple.com/app/id907002334
+#!author = Konrad
+#!tag = 去广告
+#!system = 
+#!system_version = 
+#!loon_version = 3.2.1(749)
+#!icon = https://raw.githubusercontent.com/MegaSuite/QuantumultX-Collections/main/icons/Colored_icon/DouBan.png
+#!date = 2024-11-10 09:53:32
+
+
+[Rule]
+# 拦截HTTPDNS
+IP-CIDR, 119.29.29.98/32, REJECT, no-resolve
+IP-CIDR, 119.29.29.99/32, REJECT, no-resolve
+
+[Rewrite]
+^https?:\/\/api\.douban\.com\/v\d\/app_ads\/ url reject
+^https?:\/\/api\.douban\.com\/v2\/app_ads\/splash url reject-dict
+^https?:\/\/api\.douban\.com\/b.*\/common_ads\?.* url reject-dict
+^https?:\/\/img\d\.doubanio\.com\/view\/dale-online\/dale_ad\/ url reject
+^https?:\/\/frodo\.douban\.com\/api\/v2\/movie\/banner url reject
+^https?:\/\/erebor\.douban\.com\/count\/\?ad= url reject
+^https?:\/\/api\.douban\.com\/v\d\/app_ads\/ url reject-200
+
+[MitM]
+hostname = api.douban.com
