@@ -1,0 +1,18 @@
+#!name = 淘票票
+#!desc = 淘票票不是淘广告
+#!openUrl = https://apps.apple.com/app/id566813949
+#!author = Konrad
+#!tag = 去广告
+#!system = 
+#!system_version = 
+#!loon_version = 3.2.1(749)
+#!icon = https://raw.githubusercontent.com/MegaSuite/QuantumultX-Collections/main/icons/Colored_icon/taopiaopiao.png
+#!date = 2025-01-10 16:03:44
+
+
+[Rewrite]
+# 开屏广告
+^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.film\.mtopadvertiseapi\.(queryadvertise|queryloadingbanner)\/ reject
+
+[MitM]
+hostname = acs.m.taobao.com
