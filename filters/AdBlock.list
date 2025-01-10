@@ -1113,3 +1113,4 @@ DOMAIN-SUFFIX,zhzzx.com,REJECT
 DOMAIN-SUFFIX,doubleclick-cn.net,REJECT
 DOMAIN-SUFFIX,googleadsservices.com,REJECT
 DOMAIN-SUFFIX,googleadsservices-cn.com,REJECT
+URL-REGEX,https:\/\/acs.m.taobao.com\/gw\/mtop.film.mtopadvertiseapi.queryloadingbanner\/*,REJECT
